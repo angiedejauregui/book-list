@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  color: white;
+}
+html {
+   background-color: #212529; 
+}
+#book {
+  cursor: grab;
+}
